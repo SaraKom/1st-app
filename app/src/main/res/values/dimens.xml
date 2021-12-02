@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingLeft">48sp</dimen>
+    <dimen name="paddingRight">48sp</dimen>
+    <dimen name="paddingTop">16sp</dimen>
+    <dimen name="paddingBottom">16sp</dimen>
+</resources>

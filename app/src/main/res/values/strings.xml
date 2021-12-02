@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TimeSheet</string>
+    <string name="landing">Hello Rangers!</string>
+    <string name="userName">Felhasználó</string>
+    <string name="login">Belépés</string>
+    <string name="psw">Jelszó</string>
+    <string name="timeLeft">Ledolgozandó munkaidő:</string>
+    <string name="chargedTime">Elszámolt idő:</string>
+    <string name="workTime">Ledolgozott idő:</string>
+    <string name="tp">TP</string>
+    <string name="_3x">3X</string>
+    <string name="_2x">2X</string>
+    <string name="fsz">FSZ</string>
+    <string name="pn">PN</string>
+    <string name="sec">\" sec\"</string>
+    <string name="tvname">Felhasználónév</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="mn">MN</string>
+    <string name="bsz">BSZ</string>
+    <string name="init">"Kezdés:  "</string>
+    <string name="stopTime">"Befejezés: "</string>
+    <string name="stopT">"Befejezés: "</string>
+    <string name="save">MENTÉS</string>
+    <string name="End">"Befejezés:  "</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">iPw66Kjwpb1gZ7uWsVM81IHV9htzr7usindRFaEl</string>
+    <string name="back4app_client_key">SSlHOYS5y04qsb8rpUGWuT8UOsVJcePQV8Naii4p</string>
+    <string name="signin">Sikeresen bejelentkezett!</string>
+    <string name="sucks">Valami nem stimmel!</string>
+    <string name="btnSignIn">Bejelentkezés</string>
+
+    <string name="m_g_j">Még új?</string>
+    <string name="_8hours">8:00</string>
+</resources>
